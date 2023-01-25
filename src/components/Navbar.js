@@ -7,11 +7,7 @@ export default function Navbar() {
                 className="max-w-7xl mx-auto px-5 lg:px-0 flex justify-between py-3 items-center"
             >
                 <a href="index.html">
-                    <img
-                        className="h-10"
-                        src="./assets/lws.svg"
-                        alt="Learn with Sumit"
-                    />
+                    <h1 className='text-3xl font-bold text-cyan-600'><i class="fa-brands fa-hive"></i> BlogPedia</h1>
                 </a>
             </div>
         </nav>
